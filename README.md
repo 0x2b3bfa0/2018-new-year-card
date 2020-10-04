@@ -1,1 +1,1 @@
-![Happy New Year!](./postal.gif)
+<div style="width:100%;text-align:center;"><img style="display:inline-block;" src="./postal.gif"></div>
